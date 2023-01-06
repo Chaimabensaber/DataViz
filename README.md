@@ -2,7 +2,7 @@
 
 ## Site
 
-<a href="https://chaimabensaber.github.io/Dataviz/">https://chaimabensaber.github.io/Dataviz/</a>
+<a href="https://chaimabensaber.github.io/DataViz/">https://chaimabensaber.github.io/DataViz/</a>
 
 
 ## Le projet
