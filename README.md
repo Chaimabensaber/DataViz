@@ -2,14 +2,14 @@
 
 ## Site
 
-<a href="https://chaimabensaber.github.io/DataViz/">https://chaimabensaber.github.io/DataViz/</a>
+<a href="https://drissbenadjal.github.io/Dataviz/">Discover</a>
 
 
 ## Le projet
 
-Dataviz est un site web réalisé dans le cadre d'un projet scolaire qui avait pour objectif la visualisation attractive de données sur un site web, sur le thème de notre choix.
+Dataviz is a website created as part of a school project which aimed to visualize attractive data on a website, on the theme of our choice.
 
-Le domaine astronomique et plus précisément les missions spéciales sont des domaines qui nous passionnaient.
+The astronomical field and more precisely the special missions are fields that fascinated us.
 
 
 ## Développeurs
